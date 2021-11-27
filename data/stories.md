@@ -6,6 +6,18 @@
 * callfirestation
   - utter_firestation
 
+## need help conversation
+* greet
+  - utter_greet
+* needhelp
+  - utter_how_can_i_help_you
+* callpolice
+  - utter_police
+* callhospital
+  - utter_hospital
+* callfirestation
+  - utter_firestation
+
 ## happy path
 * greet
   - utter_greet
@@ -28,7 +40,7 @@
   - utter_cheer_up
   - utter_did_that_help
 * deny
-  - utter_goodbye
+  - utter_how_can_i_help_you
 
 ## say goodbye
 * goodbye

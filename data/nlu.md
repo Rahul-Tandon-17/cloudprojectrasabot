@@ -1,3 +1,10 @@
+## intent:needhelp
+- I need help
+- help me
+- Please
+- Anyone here
+- Anyone there
+
 ## intent:callfirestation
 - I am stuck in the building
 - there is fire
@@ -8,6 +15,7 @@
 - call firestation
 - smoke
 - come down
+- fire
 
 ## intent:callhospital
 - I am hurt
@@ -73,7 +81,6 @@
 - good morning
 - good evening
 - hey there
-- help
 
 ## intent:goodbye
 - bye
@@ -87,7 +94,6 @@
 - of course
 - that sounds good
 - correct
-- perfect
 
 ## intent:deny
 - no

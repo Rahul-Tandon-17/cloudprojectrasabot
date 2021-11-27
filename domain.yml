@@ -9,11 +9,15 @@ intents:
   - callpolice
   - callhospital
   - callfirestation
+  - needhelp
 
 responses:
+  utter_how_can_i_help_you:
+  - text: "How can I help you?"
+
   utter_firestation:
   - text: "I have sent your location to the firestation. They will be there any minute."
-  
+
   utter_hospital:
   - text: "Don't worry, calm down. I have sent your location to the hospital. Ambulance will be here any minute."
 

@@ -6,16 +6,18 @@
 - Anyone there
 
 ## intent:callfirestation
-- I am stuck in the building
+- stuck in the building
 - there is fire
 - building is burning
-- he is stuck in the building
-- she is stuck in the building
 - burning
 - call firestation
 - smoke
 - come down
 - fire
+- I can't come out of the building
+- I am stuck in a lift
+- There is fire in neighbour's house
+- I am at a height and I cannot come down
 
 ## intent:callhospital
 - I am hurt
@@ -41,6 +43,12 @@
 - not breathing
 - trouble breathing
 - unconscious
+- There is a car accident
+- Two cars have collided
+- There is a medical causality
+- He is unconcious
+- There is a medical emergency
+- He is having trouble breathing
 
 ## intent:callpolice
 - I am mugged
@@ -54,8 +62,7 @@
 - call 911
 - someone is at the door
 - I am being robbed
-- he is going to kill me
-- she is going to kill me
+- kill me
 - I am being mugged
 - someone is shot
 - he is shot
